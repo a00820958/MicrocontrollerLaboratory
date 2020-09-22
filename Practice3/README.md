@@ -68,4 +68,4 @@ Screenshot the image of the complete PBC board whith the attached electronic com
 
 ## Conclusion
 
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+I tried doing this practice but I had so many errors I did not know how to fix. I think that during class we should try to address the problems we are having in kicad and how to fix them because I couldn't do this part very well because of the errors I had before and didn't know how to fix. Overall, kidcad is relatively easy to use except when there are errors we don't understand. 
