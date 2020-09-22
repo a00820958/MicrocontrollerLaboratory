@@ -102,4 +102,4 @@ Screenshot the image of the complete schematic and upload it at the repository.
 
 ## Conclusion
 
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+I liked this practice as the first one becasue it was easy to follow and to learn how kicad works. I understand now that what we practiced was to build a schematic as an example of what we will see when we start working. This type of schematic are the ones that we will create in real life and that other engineers will be reading to understand our work. I feel that it is very important to start practicing this types of skills because it will be soon that we will need them. I thought that kicad was very easy to use, it is a good way to learn and I am looking forward to learning what other this can be done on this program that are related to microcontrollers.
