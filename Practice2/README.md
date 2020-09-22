@@ -97,4 +97,4 @@ Screenshot the image of the complete schematic and upload it at the repository.
 
 ## Conclusion
 
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+This practice was much harder than the last one because we had to do more things that were very new. I wish I had understood some this better becasue I could not make this practice work. I think that I got very confused in the instructions even though they were very clear. I think we need a little more practice with kicad becasue last practice was much easier to complete. I hope that the next practice goes better than this one.
